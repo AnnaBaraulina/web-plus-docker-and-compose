@@ -11,5 +11,5 @@ COPY --from=builder /app/package*.json ./
 COPY --from=builder /app/ecosystem.config.js ./
 RUN npm i --omit=dev && npm i pm2 -g
 COPY --from=builder /app/dist ./dist/
-EXPOSE 3000
+EXPOSE 3001
 CMD [ "pm2-runtime", "start", "ecosystem.config.js" ]
