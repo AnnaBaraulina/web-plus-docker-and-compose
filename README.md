@@ -1,3 +1,4 @@
 # Докеризация приложения
-
-Перед тем как приступить к выполнению проектной работы разместите в репозитории исходный код фронтенд и бэкенд частей сервиса КупиПодариДай, реализованного вами ранее. 
+IP адрес 84.252.140.225  
+Frontend [https://...](https://aaa1.nomoredomainswork.ru/signin)https://aaa1.nomoredomainswork.ru/signin  
+Backend [https://... ](https://api.aaa1.nomoredomainswork.ru/)https://api.aaa1.nomoredomainswork.ru/  
